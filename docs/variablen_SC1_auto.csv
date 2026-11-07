@@ -1,0 +1,13 @@
+variable,label,welle,gueltige_werte
+p724111,Note Halbjahreszeugnis Deutsch,12,1653
+p724112,Note Halbjahreszeugnis Mathematik,12,1655
+p731802_g1,Höchster Bildungsabschluss Befragter (ISCED),1,3472
+p731852_g1,Höchster Bildungsabschluss Partner (ISCED),1,3224
+p731904_g14,Berufliche Tätigkeit Befragte/r (ISEI-08),1,3142
+p731954_g14,Berufliche Tätigkeit Partner/in (ISEI-08),1,2981
+p510006_g1,Haushalts-Nettoeinkommen (inkl. kategorisierter offener Angabe),1,3093
+p741001,Haushaltsgröße,1,3480
+p700010,Geschlecht Zielkind,1,3481
+p400500_g3,Herkunftsgruppe,1,3481
+p751001_g2,Wohnort (Bundesland),1,3481
+p731110,Familienstand Befragter,1,3478
